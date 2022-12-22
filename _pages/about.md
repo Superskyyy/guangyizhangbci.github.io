@@ -7,7 +7,7 @@ profile:
   align: center
   image: prof_pic.jpg
   address: >
-    <p>101 College St, Toronto</p>
+    <p>PMCRT, 101 College St</p>
     <p>Toronto, ON, M5G 1L7</p>
 
 news: true  # includes a list of news items
