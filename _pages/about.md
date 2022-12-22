@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I am an incoming postdoctoral researcher working on AI in medicine at University of Toronto. 
+Hello! I am an incoming postdoctoral researcher working on AI in medicine at the University of Toronto. 
 
 I completed my PhD program in the Department of Electrical and Computer Engineering at Queen’s University (Kingston, Canada). It has been my great honour to work under the supervision of [Prof. Ali Etemad](https://www.aiimlab.com/director). My previous research interests lie in the area of electroencephalography, brain computer interface (BCI), deep learning, affective computing, and semi-supervised learning. During the first 3 years of my PhD research, I **first authored** 8 papers (6 accepted, 2 journal submissions under review at IEEE Transactions) with near 200 citations. For more publication information, please visit my [Google Scholar Profile](https://scholar.google.ca/citations?user=ITguoVwAAAAJ&hl=en&oi=ao).
 I have also been a reviewer of top-tier AI and BCI venues such as **IEEE-TPAMI**, IEEE-TCYB, **IEEE-TAFFC**, **IEEE-TNNLS**, **IEEE-TNSRE**, IEEE-TAI, Pattern Recognit. (Elsevier), ICPR, ACII, SMC and an area chair of AAAI workshop. 
