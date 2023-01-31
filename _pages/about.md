@@ -8,7 +8,7 @@ profile:
   image: prof_pic.jpg
   address:
     <p>guangyi.zhang@utoronto.ca</p>
-    <p>PMCRT, 101 College St</p>
+    <p>PMCRT 11-301, 101 College St</p>
     <p>Toronto, ON, M5G 1L7</p>
 
 news: true  # includes a list of news items
